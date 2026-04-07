@@ -1,0 +1,89 @@
+module.exports = [
+"[project]/Online_Bike_Shopping/src/app/product/[id]/not-found.tsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+/**
+ * Custom 404 — Product Not Found page for the `/product/[id]` route.
+ *
+ * Renders a dark-themed error message within the device frame when a user
+ * navigates to a nonexistent product URL (e.g., `/product/nonexistent`).
+ * Without this file, Next.js renders its default 404 page with black text
+ * on a white background, which is invisible inside the dark DeviceFrame
+ * (#242C3B).
+ *
+ * Layout:
+ * - Dark background matching the app's primary surface color
+ * - White text centered vertically and horizontally
+ * - "Product Not Found" heading in Poppins 700 20px #FFFFFF
+ * - Descriptive body text in Poppins 400 15px rgba(255,255,255,0.6)
+ * - "Back to Home" link styled as a gradient button
+ *
+ * @module app/product/[id]/not-found
+ */ __turbopack_context__.s([
+    "default",
+    ()=>ProductNotFound
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$Online_Bike_Shopping$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Online_Bike_Shopping/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Online_Bike_Shopping$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Online_Bike_Shopping/node_modules/next/dist/client/app-dir/link.js [app-rsc] (ecmascript)");
+;
+;
+function ProductNotFound() {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Online_Bike_Shopping$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        className: "relative w-full h-full flex flex-col items-center justify-center bg-bg-primary px-8",
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Online_Bike_Shopping$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                className: "text-[20px] font-bold leading-[1.5em] text-white mb-3",
+                children: "Product Not Found"
+            }, void 0, false, {
+                fileName: "[project]/Online_Bike_Shopping/src/app/product/[id]/not-found.tsx",
+                lineNumber: 26,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Online_Bike_Shopping$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "text-[15px] font-normal leading-[1.5em] tracking-[-0.02em] text-white/60 text-center mb-8",
+                children: "The product you are looking for does not exist or has been removed."
+            }, void 0, false, {
+                fileName: "[project]/Online_Bike_Shopping/src/app/product/[id]/not-found.tsx",
+                lineNumber: 31,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Online_Bike_Shopping$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Online_Bike_Shopping$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                href: "/",
+                className: "inline-flex items-center justify-center w-[160px] h-[44px] rounded-button text-[15px] font-medium leading-[1.5em] tracking-[-0.02em] text-white bg-gradient-primary shadow-cta gradient-stroke-button",
+                children: "Back to Home"
+            }, void 0, false, {
+                fileName: "[project]/Online_Bike_Shopping/src/app/product/[id]/not-found.tsx",
+                lineNumber: 36,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/Online_Bike_Shopping/src/app/product/[id]/not-found.tsx",
+        lineNumber: 24,
+        columnNumber: 5
+    }, this);
+}
+}),
+"[project]/Online_Bike_Shopping/node_modules/next/dist/client/app-dir/link.js [app-rsc] (client reference proxy) <module evaluation>", ((__turbopack_context__, module, exports) => {
+
+// This file is generated by next-core EcmascriptClientReferenceModule.
+const { createClientModuleProxy } = __turbopack_context__.r("[project]/Online_Bike_Shopping/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-server-dom-turbopack-server.js [app-rsc] (ecmascript)");
+__turbopack_context__.n(createClientModuleProxy("[project]/Online_Bike_Shopping/node_modules/next/dist/client/app-dir/link.js <module evaluation>"));
+}),
+"[project]/Online_Bike_Shopping/node_modules/next/dist/client/app-dir/link.js [app-rsc] (client reference proxy)", ((__turbopack_context__, module, exports) => {
+
+// This file is generated by next-core EcmascriptClientReferenceModule.
+const { createClientModuleProxy } = __turbopack_context__.r("[project]/Online_Bike_Shopping/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-server-dom-turbopack-server.js [app-rsc] (ecmascript)");
+__turbopack_context__.n(createClientModuleProxy("[project]/Online_Bike_Shopping/node_modules/next/dist/client/app-dir/link.js"));
+}),
+"[project]/Online_Bike_Shopping/node_modules/next/dist/client/app-dir/link.js [app-rsc] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+var __TURBOPACK__imported__module__$5b$project$5d2f$Online_Bike_Shopping$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$client__reference__proxy$29$__$3c$module__evaluation$3e$__ = __turbopack_context__.i("[project]/Online_Bike_Shopping/node_modules/next/dist/client/app-dir/link.js [app-rsc] (client reference proxy) <module evaluation>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Online_Bike_Shopping$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$client__reference__proxy$29$__ = __turbopack_context__.i("[project]/Online_Bike_Shopping/node_modules/next/dist/client/app-dir/link.js [app-rsc] (client reference proxy)");
+;
+__turbopack_context__.n(__TURBOPACK__imported__module__$5b$project$5d2f$Online_Bike_Shopping$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$client__reference__proxy$29$__);
+}),
+];
+
+//# sourceMappingURL=Online_Bike_Shopping_c8ac6501._.js.map

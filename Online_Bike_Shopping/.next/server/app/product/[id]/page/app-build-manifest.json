@@ -1,0 +1,24 @@
+{
+  "pages": {
+    "/product/[id]/page": [
+      "static/chunks/[root-of-the-server]__47871c35._.css",
+      "static/chunks/45cd2_next_dist_a50784d8._.js",
+      "static/chunks/Online_Bike_Shopping_src_app_layout_tsx_af3349e3._.js",
+      "static/chunks/45cd2_next_dist_client_components_builtin_global-error_c425fb20.js",
+      "static/chunks/45cd2_next_dist_3427dc16._.js",
+      "static/chunks/Online_Bike_Shopping_src_app_product_[id]_not-found_tsx_c425fb20._.js",
+      "static/chunks/45cd2_a270231a._.js",
+      "static/chunks/Online_Bike_Shopping_src_21ae01cd._.js",
+      "static/chunks/Online_Bike_Shopping_src_app_product_[id]_page_tsx_c425fb20._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_2f146a1b._.js",
+      "static/chunks/45cd2_next_dist_compiled_react-dom_0b77ccde._.js",
+      "static/chunks/45cd2_next_dist_compiled_next-devtools_index_5bcbf494.js",
+      "static/chunks/45cd2_next_dist_compiled_5cb2b2bc._.js",
+      "static/chunks/45cd2_next_dist_client_a3092bf4._.js",
+      "static/chunks/45cd2_next_dist_22dfc776._.js",
+      "static/chunks/45cd2_@swc_helpers_cjs_265dbd97._.js",
+      "static/chunks/Online_Bike_Shopping_a0ff3932._.js",
+      "static/chunks/turbopack-Online_Bike_Shopping_e67f44c8._.js"
+    ]
+  }
+}
